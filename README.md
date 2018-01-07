@@ -1,7 +1,5 @@
 # `dotfiles-role-python`
-# `dotfiles-role-python`
 
-[![Build Status](https://travis-ci.org/thecjharries/dotfiles-role-python.svg?branch=master)](https://travis-ci.org/thecjharries/dotfiles-role-python)
 [![Build Status](https://travis-ci.org/thecjharries/dotfiles-role-python.svg?branch=master)](https://travis-ci.org/thecjharries/dotfiles-role-python)
 
 
@@ -48,8 +46,6 @@ python_packages:
 ```yml
 ---
 - src: git+https://github.com/thecjharries/dotfiles-role-common-software.git
-- src: git+https://github.com/thecjharries/dotfiles-role-common-software.git
-- src: git+https://github.com/thecjharries/dotfiles-role-package-installer.git
 - src: git+https://github.com/thecjharries/dotfiles-role-package-installer.git
 ```
 
