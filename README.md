@@ -1,7 +1,7 @@
 # `dotfiles-role-python`
 
 [![Build Status](https://travis-ci.org/thecjharries/dotfiles-role-python.svg?branch=master)](https://travis-ci.org/thecjharries/dotfiles-role-python)
-[![GitHub release](https://img.shields.io/github/release/thecjharries/dotfiles-role-python.svg)](https://github.com/thecjharries/dotfiles-role-python)
+[![GitHub tag](https://img.shields.io/github/tag/thecjharries/dotfiles-role-python.svg)](https://github.com/thecjharries/dotfiles-role-python)
 
 
 ## Requirements
