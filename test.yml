@@ -1,0 +1,7 @@
+---
+- hosts: localhost
+  connection: local
+
+  roles:
+    - role: "{{ playbook_dir }}"
+      template_path: "Dockerfile"
